@@ -18,7 +18,7 @@ function calibrateWidths() {
             'width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0'
         )
 
-    const sidebar = document.querySelector('.w-sidebar')
+    const sidebar = document.querySelector('.sidebar-menu')
     const contentHeader = document.querySelector('.content .h-header')
 
     contentHeader.style.left = sidebar.offsetWidth + 'px'

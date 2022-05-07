@@ -18,7 +18,7 @@ function calibrateWidths() {
             'width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0'
         )
 
-    const sidebar = document.querySelector('.w-sidebar')
+    const sidebar = document.querySelector('.sidebar-menu')
     const content = document.querySelector('#nova .content')
 
     sidebar.style = 'height: 100%'
