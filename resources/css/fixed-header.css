@@ -1,4 +1,4 @@
-#nova .content {
+#nova {
     padding-top: 30px;
 }
 
@@ -17,7 +17,7 @@
 }
 
 @media (max-width: 992px) {
-    #nova .content {
+    #nova {
         padding-top: 60px;
     }
     .content .h-header {
